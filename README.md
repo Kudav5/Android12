@@ -1,5 +1,5 @@
 ![](idk.png)
 ![](vidyo.mkv)
 
-<video src="vidyo.mkv"></video>
-[![Video](file:video.mov)
+<video src="video.mkv"></video>
+![Video](file:video.mkv)

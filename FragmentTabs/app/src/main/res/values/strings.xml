@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">FragmentTabs</string>
+
+    <string name="monday">Monday</string>
+    <string name="tuesday">Tuesday</string>
+    <string name="wednesday">Wednesday</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tab1">Action</string>
+    <string name="tab2">Komedi</string>
+    <string name="tab3">Romance</string>
+
+    <string name="action">Mission: Impossible II (2000) \n\n
+        Agen rahasia Ethan Hunt dan timnya dikirim ke Sydney, Australia, untuk menemukan dan memusanahkan sebuah virus rekayasa genetika mematikan yang dijuluki dengan kode (Chimera).</string>
+    <string name="komedi">Mr. Bean\'s Holiday (2007) \n\n
+        Mr. Bean memenangkan tiket liburan ke Cannes, dan tanpa sadar, telah memisahkan seorang bocah dari ayahnya. Dengan segala cara, kini ia berusaha untuk membantu keduanya agar dapat bersama kembali.</string>
+    <string name="romance">The Notebook (2004) \n\n
+        Film ini tentang seorang pria tua membacakan untuk seorang wanita tua. Mengikuti kehidupan dua kekasih, Allie dan Noah. Tapi mereka dipisahkan oleh orang tua Allie yang tidak setuju dengan Noah.</string>
+</resources>
